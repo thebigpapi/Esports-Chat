@@ -13,7 +13,16 @@ Package.onUse(function(api) {
 
 	api.use('templating', 'client');
 
+	api.addFiles('server/settings.js', 'server');
+
 	api.addFiles('client/tabBar.js', 'client');
 	api.addFiles('client/jitsiPanel.html', 'client');
 	api.addFiles('client/jitsiPanel.js', 'client');
+	api.addFiles('client/jitsiVideo.html', 'client');
+
+	api.addFiles('client/utils.js', 'client');
+	api.addFiles('client/do_external_connect.js', 'client');
+	api.addFiles('client/lib-jitsi-meet.js', 'client');
+	api.addFiles('client/app.bundle.js', 'client');
+	api.addFiles('client/all.css', 'client');	
 });
