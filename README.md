@@ -348,16 +348,9 @@ See also this [Git Workflows Comparison](https://www.atlassian.com/git/tutorials
 We are experimenting [Lingohub](https://translate.lingohub.com/engelgabriel/rocket-dot-chat/dashboard).
 If you want to help, send an email to support at rocket.chat to be invited to the translation project.
 
-## Community
-
-Join thousands of members  world-wide 24 x 7 in our [community server](https://demo.rocket.chat).  Join the conversation at [Twitter](https://twitter.com/RocketChatApp), [Facebook](https://www.facebook.com/RocketChatApp) or [Google Plus](https://plus.google.com/+RocketChatApp)
-
 ## How to Contribute
 
 Already a JavaScript developer?  Familiar with Meteor?  [Pick an issue](https://github.com/RocketChat/Rocket.Chat/labels/contrib%3A%20easy), push a PR and instantly become a member of Rocket.Chat's international contributors community.
-
-A lot of work has already gone into Rocket.Chat, but we have much bigger plans for it!
-
 
 # Credits
 
